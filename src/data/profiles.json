@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "description": "Software engineer with 5+ years of experience in full-stack development. Passionate about creating scalable web applications.",
+    "fullDescription": "John is a seasoned software engineer specializing in React, Node.js, and cloud technologies. He has led multiple projects from conception to deployment and enjoys mentoring junior developers.",
+    "address": "123 Main Street, New York, NY 10001",
+    "city": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "+1 (555) 123-4567"
+    },
+    "interests": ["Coding", "Photography", "Hiking", "Reading"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    "description": "UX/UI designer focused on creating intuitive and beautiful user experiences. Expert in design systems and user research.",
+    "fullDescription": "Jane is a creative UX/UI designer with a strong background in user-centered design. She has worked with startups and Fortune 500 companies to create engaging digital experiences.",
+    "address": "456 Oak Avenue, Los Angeles, CA 90001",
+    "city": "Los Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "contact": {
+      "email": "jane.smith@example.com",
+      "phone": "+1 (555) 234-5678"
+    },
+    "interests": ["Design", "Art", "Travel", "Yoga"]
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "description": "Data scientist and machine learning engineer. Specializes in predictive analytics and AI model development.",
+    "fullDescription": "Michael is a data scientist with expertise in machine learning, deep learning, and statistical analysis. He has published research papers and built production ML systems.",
+    "address": "789 Pine Road, Chicago, IL 60601",
+    "city": "Chicago",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "contact": {
+      "email": "michael.j@example.com",
+      "phone": "+1 (555) 345-6789"
+    },
+    "interests": ["Machine Learning", "Chess", "Running", "Cooking"]
+  },
+  {
+    "id": 4,
+    "name": "Sarah Williams",
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+    "description": "Product manager with a track record of launching successful products. Strong in strategy and cross-functional collaboration.",
+    "fullDescription": "Sarah is an experienced product manager who has successfully launched multiple products across different industries. She excels at bridging the gap between business and technology.",
+    "address": "321 Elm Street, Houston, TX 77001",
+    "city": "Houston",
+    "latitude": 29.7604,
+    "longitude": -95.3698,
+    "contact": {
+      "email": "sarah.w@example.com",
+      "phone": "+1 (555) 456-7890"
+    },
+    "interests": ["Product Management", "Reading", "Tennis", "Wine Tasting"]
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    "description": "DevOps engineer specializing in cloud infrastructure and CI/CD pipelines. Expert in AWS, Docker, and Kubernetes.",
+    "fullDescription": "David is a DevOps engineer with extensive experience in cloud infrastructure, automation, and containerization. He has architected scalable systems for high-traffic applications.",
+    "address": "654 Maple Drive, Phoenix, AZ 85001",
+    "city": "Phoenix",
+    "latitude": 33.4484,
+    "longitude": -112.0740,
+    "contact": {
+      "email": "david.brown@example.com",
+      "phone": "+1 (555) 567-8901"
+    },
+    "interests": ["DevOps", "Gaming", "Cycling", "Tech Blogging"]
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+    "description": "Frontend developer passionate about React and modern web technologies. Loves creating pixel-perfect UIs.",
+    "fullDescription": "Emily is a frontend developer with a keen eye for design and detail. She specializes in React, TypeScript, and modern CSS frameworks, creating beautiful and performant user interfaces.",
+    "address": "987 Cedar Lane, Philadelphia, PA 19101",
+    "city": "Philadelphia",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "contact": {
+      "email": "emily.davis@example.com",
+      "phone": "+1 (555) 678-9012"
+    },
+    "interests": ["Frontend Development", "Design", "Music", "Dancing"]
+  }
+]
+
